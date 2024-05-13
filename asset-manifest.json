@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wd100-react-application-3/static/css/main.ff02f4b5.css",
+    "main.js": "/wd100-react-application-3/static/js/main.29edf350.js",
+    "static/js/453.b13e8c58.chunk.js": "/wd100-react-application-3/static/js/453.b13e8c58.chunk.js",
+    "static/media/team.jpg": "/wd100-react-application-3/static/media/team.64cba9feb2f196a7ccdb.jpg",
+    "static/media/5.jpg": "/wd100-react-application-3/static/media/5.348650ad0897a11019c1.jpg",
+    "static/media/logo.png": "/wd100-react-application-3/static/media/logo.8bfcf6e92a07a11b1a60.png",
+    "static/media/1.jpg": "/wd100-react-application-3/static/media/1.1c333ced613b9427518a.jpg",
+    "static/media/3.jpg": "/wd100-react-application-3/static/media/3.46b0cf5e0b5003eb3907.jpg",
+    "static/media/6.jpg": "/wd100-react-application-3/static/media/6.5adab98a77c897bb6c5a.jpg",
+    "static/media/7.jpg": "/wd100-react-application-3/static/media/7.55e0d322ad465c05aa90.jpg",
+    "static/media/2.jpg": "/wd100-react-application-3/static/media/2.d2b78c61046aac3b0277.jpg",
+    "static/media/9.jpg": "/wd100-react-application-3/static/media/9.9aa44ca9df5f730318a3.jpg",
+    "static/media/8.jpg": "/wd100-react-application-3/static/media/8.46b6402df8cb00efadcb.jpg",
+    "static/media/4.jpg": "/wd100-react-application-3/static/media/4.519ac2ae19522afdd9b2.jpg",
+    "index.html": "/wd100-react-application-3/index.html",
+    "main.ff02f4b5.css.map": "/wd100-react-application-3/static/css/main.ff02f4b5.css.map",
+    "main.29edf350.js.map": "/wd100-react-application-3/static/js/main.29edf350.js.map",
+    "453.b13e8c58.chunk.js.map": "/wd100-react-application-3/static/js/453.b13e8c58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.29edf350.js"
+  ]
+}
